@@ -1,6 +1,6 @@
 # Break the System
 
-2D Unity developed game, which tells the tale of a man seeking for revenge on his employees, that murdered his family.
+![Background image](./docs/background.png)
 
 ## Integrantes do grupo
 
